@@ -6,7 +6,7 @@ Kai kurie tiekėjai siūlo kintamą valandinį tarifą, t.y. čia pažymėtą ka
 
 Čia sudėtos istorinės kainos nuo 2013 metų, gali būti įdomu paanalizuoti elektros kainos tendencijas ir pažiūrėti kaip galima geriausiai pasinaudoti šiuo valandiniu tarifu.
 
-##Stulpeliai
+## Stulpeliai
 
 YY metai
 
